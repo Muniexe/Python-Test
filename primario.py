@@ -1,5 +1,4 @@
 #Olá Estou Aprendedo a Logica com Python
-
 #PRIMEIRA ATUALIZÇÃO : SOMA DE NUMEROS
 #SEGUNDA ATUALIZÇÃO : MEDIA PRA ESCOLA
 
